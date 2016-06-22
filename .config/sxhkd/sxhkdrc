@@ -6,6 +6,9 @@
 super + Return
 	terminator
 
+# nautilus dbus
+super + shift + f
+	dbus-launch nautilus
 # program launcher
 super + space
 	rofi -show run
@@ -89,7 +92,7 @@ super + {_,shift + }{1-9,0}
 #
 
 # preselect the direction
-super + ctrl + {h,j,k,l}
+super + ctrl + {h,n,t,s}
 	bspc node -p {west,south,north,east}
 
 # preselect the ratio
@@ -109,11 +112,11 @@ super + ctrl + shift + space
 #
 
 # expand the tiled space in the given direction
-super + alt + {h,j,k,l}
+super + alt + {h,n,t,s}
 	bspc node {@west -r -10,@south -r +10,@north -r -10,@east -r +10}
 
 # contract the tiled space in the given direction
-super + alt + shift + {h,j,k,l}
+super + alt + ctrl + {h,n,t,s}
 	bspc node {@east -r -10,@north -r +10,@south -r -10,@west -r +10}
 
 # move a floating window
