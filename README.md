@@ -1,4 +1,7 @@
-# dot_bspwm
+# BSPWM Dotfiles
+
+## Dependencies
+	rofi, terminator, compton, tint2
 
 ## On Gentoo
 ![1](http://i.imgur.com/2YB2xEk.jpg)
