@@ -1,11 +1,12 @@
 #! /bin/sh
 
+ 
+
 sxhkd &
-panel &
 compton &
 bspc config border_width         2
 bspc config window_gap          12
-bspc config top_padding 	20
+bspc config top_padding 	24
 
 bspc config split_ratio          0.52
 bspc config borderless_monocle   true
@@ -13,14 +14,33 @@ bspc config gapless_monocle      true
 bspc config focus_by_distance    true
 bspc config history_aware_focus  true
 
-bspc monitor -d 1 2 3 4 5 6 7 8 9 10
+bspc monitor -d      
 
-bspc rule -a Gimp desktop=^8 state=floating follow=on
-bspc rule -a Chromium desktop=^2
+bspc rule -a Firefox fullscreen=on desktop='^1'
+
+bspc rule -a Subl3 
+bspc rule -a Nautilus state=floating center=on 
+bspc rule -a Transmission-gtk state=floating 
+bspc rule -a Pinta
+bspc rule -a file-rollex state=floating center=on desktop='^3'
+bspc rule -a feh state=floating 
+bspc rule -a mplayer state=floating center=on 
+
+bspc rule -a mainwindow.py state=floating desktop='^4'
+
+bspc rule -a Pavucontrol state=floating center=on 
+bspc rule -a Connman-gtk state=floating center=on 
+
+bspc rule -a Skype state=floating 
+
+bspc rule -a follow=on state=floating
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 nitrogen --restore &
-panel &
+tint2 &
 nm-applet &
+pnmixer &
+dropbox &
+blueman-applet &

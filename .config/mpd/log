@@ -1,0 +1,449 @@
+Jun 29 17:43 : errno: Failed to open /home/meryborn/.config/mpd/state: No such file or directory
+Jun 29 17:43 : errno: Failed to stat /home/meryborn/music: No such file or directory
+Jun 29 17:45 : client: [0] opened from 127.0.0.1:47118
+Jun 29 17:45 : alsa_mixer: Failed to read mixer for 'MPD ALSA': no such mixer control: PCM
+Jun 29 17:45 : update: added /Gutter Brothers & CVPELLV - Like This.mp3
+Jun 29 17:45 : update: added /Hugekilla - Я Свинка Пеппа.mp3
+Jun 29 17:45 : update: added /Sabaton - Panzerkampf.mp3
+Jun 29 17:45 : update: added /nightcore - Candy.mp3
+Jun 29 17:45 : update: added /Satoru Kosaki - Hyouri.mp3
+Jun 29 17:45 : update: added /Panty & Stocking - D. City Rock.mp3
+Jun 29 17:45 : update: added /Meduca Meguca - MAD TETRIS.mp3
+Jun 29 17:45 : update: added /SuperSweep - The bluff.mp3
+Jun 29 17:45 : update: added /Тату - Мальчик.mp3
+Jun 29 17:45 : update: added /Nightcore - Zero.mp3
+Jun 29 17:45 : update: added /Alesha Dixon - Tallest Girl.mp3
+Jun 29 17:45 : update: added /Fort Minor - Remember The Name.mp3
+Jun 29 17:45 : update: added /Satoru Kosaki - An Old Story.mp3
+Jun 29 17:45 : update: added /Satoru Kosaki - Iroboke Neko.mp3
+Jun 29 17:45 : update: added /Satoru Kosaki - Bonds.mp3
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:46 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:46 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:46 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 17:46 : player: played "Fort Minor - Remember The Name.mp3"
+Jun 29 17:48 : client: [0] closed
+Jun 29 17:48 : client: [1] opened from 127.0.0.1:47240
+Jun 29 17:49 : client: [1] closed
+Jun 29 17:49 : config: option 'mixer_device' on line 17 was not recognized
+Jun 29 17:49 : config: option 'mixer_control' on line 18 was not recognized
+Jun 29 17:49 : client: [0] opened from 127.0.0.1:47244
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:49 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:49 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:49 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:49 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:49 : alsa_output: Failed to open "MPD ALSA" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 17:50 : player: played "Fort Minor - Remember The Name.mp3"
+Jun 29 17:50 : client: [0] closed
+Jun 29 17:50 : client: [0] opened from 127.0.0.1:47252
+Jun 29 17:50 : alsa_mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 29 17:50 : client: [0] closed
+Jun 29 17:51 : client: [0] opened from 127.0.0.1:47256
+Jun 29 17:51 : alsa_mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 29 17:51 : client: [0] closed
+Jun 29 17:54 : config: option 'mixer_device' on line 18 was not recognized
+Jun 29 17:54 : config: option 'mixer_control' on line 19 was not recognized
+Jun 29 17:54 : client: [0] opened from 127.0.0.1:47422
+Jun 29 17:54 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:54 : player: played "Fort Minor - Remember The Name.mp3"
+Jun 29 17:54 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:54 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:54 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:54 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:54 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:55 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:55 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:55 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:55 : errno: Failed to open "oss device" [oss]: Error opening OSS device "/dev/dsp": No such file or directory
+Jun 29 17:55 : player: played "Gutter Brothers & CVPELLV - Like This.mp3"
+Jun 29 17:55 : client: [0] closed
+Jun 29 17:57 : client: [0] opened from 127.0.0.1:47456
+Jun 29 17:57 : client: [0] closed
+Jun 29 17:57 : client: [0] opened from 127.0.0.1:47460
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:57 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 17:57 : player: played "Gutter Brothers & CVPELLV - Like This.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:57 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:57 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:58 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:58 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:58 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:58 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:58 : alsa_output: Failed to open "My Sound Card" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 17:58 : client: [0] closed
+Jun 29 17:58 : player: played "Fort Minor - Remember The Name.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 17:59 : client: [0] opened from 127.0.0.1:47470
+Jun 29 17:59 : alsa_mixer: Failed to read mixer for 'mpd alsamixer-output': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 17:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 18:00 : player: played "Fort Minor - Remember The Name.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 18:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 18:01 : player: played "Gutter Brothers & CVPELLV - Like This.mp3"
+Jun 29 18:01 : client: [0] closed
+Jun 29 21:57 : client: [1] opened from 127.0.0.1:50404
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:57 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:57 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:57 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:58 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:58 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 21:58 : client: [1] closed
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:58 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 21:58 : client: [2] opened from 127.0.0.1:50410
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:58 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:58 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 21:58 : player: played "Gutter Brothers & CVPELLV - Like This.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:58 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 21:59 : player: played "Alesha Dixon - Tallest Girl.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 21:59 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:00 : player: played "Meduca Meguca - MAD TETRIS.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:00 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:01 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:02 : player: played "nightcore - Candy.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:02 : player: played "Nightcore - Zero.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:02 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:03 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:03 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:03 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:03 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:03 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:06 : player: played "Panty & Stocking - D. City Rock.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:08 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:08 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:08 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:08 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:08 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:08 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:09 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:09 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:09 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:09 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:09 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:10 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:10 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:10 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:10 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:10 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:10 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:11 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:11 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:11 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:11 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:11 : player: played "Sabaton - Panzerkampf.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:11 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:11 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:11 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:12 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:12 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:12 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:12 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:12 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:12 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:13 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:13 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:13 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:13 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:13 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:13 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:14 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:14 : player: played "Satoru Kosaki - An Old Story.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:14 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:14 : player: played "Satoru Kosaki - Bonds.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:14 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:14 : player: played "Satoru Kosaki - Hyouri.mp3"
+Jun 29 22:14 : player: played "Satoru Kosaki - Iroboke Neko.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:14 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:14 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:15 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:15 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:15 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:15 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:15 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:15 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:16 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:16 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:16 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:16 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:16 : player: played "SuperSweep - The bluff.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:16 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:16 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:16 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:17 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:17 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:17 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:17 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:17 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:17 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:18 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:18 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:18 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:18 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:18 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:18 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:19 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:19 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:19 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:19 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 29 22:19 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 29 22:19 : player: played "Тату - Мальчик.mp3"
+Jun 29 22:19 : client: [2] closed
+Jun 30 18:04 : client: [3] opened from 127.0.0.1:43838
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:04 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:05 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:06 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Jun 30 18:07 : alsa_output: Failed to open "mpd alsamixer-output" [alsa]: Failed to open ALSA device "default": No such file or directory
+Jun 30 18:07 : player: played "Fort Minor - Remember The Name.mp3"
+Jun 30 18:07 : client: [3] closed
